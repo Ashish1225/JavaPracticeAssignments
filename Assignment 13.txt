@@ -1,0 +1,17 @@
+Create one e2e test (Login >Creating course > Delete Course >Logout)
+	
+Create local branch with ur name
+
+Create pull request for merge branch
+
+----------------------------
+Sir I have added 2 new Test feature of e2e flow in my project and created a pull request.
+1- Create a new Course 
+2- Delete course
+
+Please find the url:
+-- Created a new Branch == Feature_e2e_Ashish
+
+-- https://github.com/Ashish1225/SeleniumJavaCucumberBDDProj/tree/master
+
+
